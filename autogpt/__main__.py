@@ -192,7 +192,7 @@ def prompt_user():
     ai_name = ""
     # Construct the prompt
     logger.typewriter_log(
-        "欢迎来到 Auto-GPT-ZH! ",
+        "欢迎来到 Auto-GPT-ZH! 中文版由AJ提供. 公众号《阿杰的人生路》回复Auto-GPT,加入社区共同探讨使用方式.",
         Fore.GREEN,
         "在下面输入您的 AI 的名称及其角色。什么都不输入将加载"
         " defaults.",
